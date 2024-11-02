@@ -3,30 +3,7 @@
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"Radio Stations": [
-	{
-			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
-			"content": {
-				"duration": 100,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
-			}
-		},
+
 		{
 			"longDescription": "Eternity Ready Radio",
 			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/eternityRadio.png",
@@ -52,62 +29,195 @@
 			}
 		},
 		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
-			"releaseDate": "2020-01-17",
+			"longDescription": "Heaven's Country",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/Heaven'sCountry_thumbnail.png",
+			"releaseDate": "2020-01-15",
 			"genres": [
-				"educational"
+				"religion"
 			],
 			"tags": [
-				"getting-started"
+				"religion,family"
 			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
-			"title": "Enabling Developer Mode",
+			"id": "er",
+			"shortDescription": "Heaven's Country",
+			"title": "Heaven's Country",
 			"content": {
-				"duration": 120,
+				"duration": 0,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+					"videoType": "MP3",
+					"url": "https://das-edge11-live365-dal03.cdnstream.com/a66385",
 					"quality": "HD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		},
-			{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-			"releaseDate": "2020-01-17",
+		{
+			"longDescription": "Affirm Southern Gospel Radio",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/AffirmSouthernGospelRadio_thumbnail.png",
+			"releaseDate": "2020-01-15",
 			"genres": [
-				"educational"
+				"religion"
 			],
 			"tags": [
-				"feature"
+				"religion,family"
 			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"title": "Voice Features",
+			"id": "er",
+			"shortDescription": "Affirm Southern Gospel Radio",
+			"title": "Affirm Southern Gospel Radio",
 			"content": {
-				"duration": 98,
+				"duration": 0,
 				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+					"videoType": "MP3",
+					"url": "https://das-edge12-live365-dal02.cdnstream.com/a38333",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:12Z",
-				"captions": [{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
-					},
-					{
-						"language": "en",
-						"captionType": "CLOSED_CAPTION",
-						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
-					}
-				]
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "The Worship Channel",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/theWorshipChannel.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "The Worship Channel",
+			"title": "The Worship Channel",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://das-edge10-live365-dal03.cdnstream.com/a45950",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "VertiZontal Radio",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/VertiZontalRadio_thumbnail.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "VertiZontal Radio",
+			"title": "VertiZontal Radio",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://mp3.vertizontalradio.com/stream",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Fine Tune Radio",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/fineTuneRadio.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "Fine Tune Radio",
+			"title": "Fine Tune Radio",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://radio.finetuneradio.com/listen/fine_tune_radio/radio.mp3",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "KJOL FM, Grand Junction, Colorado",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/KJOL_thumbnail.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "KJOL FM, Grand Junction, Colorado",
+			"title": "KJOL FM, Grand Junction, Colorado",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://radio.finetuneradio.com/listen/fine_tune_radio/radio.mp3",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "WBLB Family, Pulaski, Virginia",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/WBLBFamily1340_thumbnail.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "WBLB Family, Pulaski, Virginia",
+			"title": "WBLB Family, Pulaski, Virginia",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://das-edge10-live365-dal03.cdnstream.com/a88004",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Serene Radio",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/eternityRadio.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "Eternity Ready Radio",
+			"title": "Eternity Ready Radio",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://s6.reliastream.com/proxy/serene?mp=/stream",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		}
 	]
