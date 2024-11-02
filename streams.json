@@ -5,7 +5,7 @@
 	"Radio Stations": [
 
 		{
-			"longDescription": "Eternity Ready Radio",
+			"longDescription": "Eternity Ready Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
 			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/eternityRadio.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -197,7 +197,7 @@
 			}
 		},
 		{
-			"longDescription": "Serene Radio",
+			"longDescription": "Serene Radio is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
 			"thumbnail": "https://raw.githubusercontent.com/mobilipia/er/refs/heads/main/Serene.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
