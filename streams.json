@@ -198,7 +198,7 @@
 		},
 		{
 			"longDescription": "Serene Radio",
-			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/eternityRadio.png",
+			"thumbnail": "https://raw.githubusercontent.com/mobilipia/er/refs/heads/main/Serene.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"religion"
