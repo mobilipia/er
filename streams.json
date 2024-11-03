@@ -21,7 +21,7 @@
 				"duration": 0,
 				"videos": [{
 					"videoType": "MP3",
-					"url": "https://mp3.eternityreadyradio.com/stream",
+					"url": "http://eternityreadyradio.out.airtime.pro:8000/eternityreadyradio_a",
 					"quality": "HD"
 				}],
 				"language": "en-us",
