@@ -2,80 +2,7 @@
 	"providerName": "Eternity Radio",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	".": [
-
-		{
-			"longDescription": "Eternity Ready Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
-			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/eternityRadio.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"religion"
-			],
-			"tags": [
-				"religion,family"
-			],
-			"id": "er",
-			"shortDescription": "Eternity Ready Radio",
-			"title": "Eternity Ready Radio",
-			"content": {
-				"duration": 0,
-				"videos": [{
-					"videoType": "MP3",
-					"url": "http://eternityreadyradio.out.airtime.pro:8000/eternityreadyradio_a",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Heaven's Country  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
-			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/Heaven'sCountry_thumbnail.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"religion"
-			],
-			"tags": [
-				"religion,family"
-			],
-			"id": "er",
-			"shortDescription": "Heaven's Country",
-			"title": "Heaven's Country",
-			"content": {
-				"duration": 0,
-				"videos": [{
-					"videoType": "MP3",
-					"url": "https://das-edge11-live365-dal03.cdnstream.com/a66385",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Affirm Southern Gospel Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
-			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/AffirmSouthernGospelRadio_thumbnail.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"religion"
-			],
-			"tags": [
-				"religion,family"
-			],
-			"id": "er",
-			"shortDescription": "Affirm Southern Gospel Radio",
-			"title": "Affirm Southern Gospel Radio",
-			"content": {
-				"duration": 0,
-				"videos": [{
-					"videoType": "MP3",
-					"url": "https://das-edge12-live365-dal02.cdnstream.com/a38333",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		}],
+	
 	"#":[
 		{
 			"longDescription": "The Worship Channel  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
@@ -222,6 +149,80 @@
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		}
-	   ]
+	   ],
+	   ".": [
+
+		{
+			"longDescription": "Eternity Ready Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/eternityRadio.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "Eternity Ready Radio",
+			"title": "Eternity Ready Radio",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "http://eternityreadyradio.out.airtime.pro:8000/eternityreadyradio_a",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Heaven's Country  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/Heaven'sCountry_thumbnail.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "Heaven's Country",
+			"title": "Heaven's Country",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://das-edge11-live365-dal03.cdnstream.com/a66385",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Affirm Southern Gospel Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
+			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/AffirmSouthernGospelRadio_thumbnail.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"religion"
+			],
+			"tags": [
+				"religion,family"
+			],
+			"id": "er",
+			"shortDescription": "Affirm Southern Gospel Radio",
+			"title": "Affirm Southern Gospel Radio",
+			"content": {
+				"duration": 0,
+				"videos": [{
+					"videoType": "MP3",
+					"url": "https://das-edge12-live365-dal02.cdnstream.com/a38333",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		}]
 
 }
