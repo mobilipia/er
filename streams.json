@@ -2,7 +2,7 @@
 	"providerName": "Eternity Radio",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"Radio Stations": [
+	"Radio 1": [
 
 		{
 			"longDescription": "Eternity Ready Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
@@ -75,7 +75,8 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
-		},
+		}],
+	"Radio 2":[
 		{
 			"longDescription": "The Worship Channel  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
 			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/theWorshipChannel.png",
@@ -147,7 +148,8 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
-		},
+		}],
+	"Radio 3":[
 		{
 			"longDescription": "KJOL FM, Grand Junction, Colorado  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
 			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/KJOL_thumbnail.png",
@@ -220,6 +222,6 @@
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		}
-	]
+	   ]
 
 }
