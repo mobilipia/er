@@ -17,6 +17,11 @@
 			"id": "er",
 			"shortDescription": "The Worship Channel",
 			"title": "The Worship Channel",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -41,6 +46,11 @@
 			"id": "er",
 			"shortDescription": "VertiZontal Radio",
 			"title": "VertiZontal Radio",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -65,6 +75,11 @@
 			"id": "er",
 			"shortDescription": "Fine Tune Radio",
 			"title": "Fine Tune Radio",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -90,6 +105,11 @@
 			"id": "er",
 			"shortDescription": "KJOL FM, Grand Junction, Colorado",
 			"title": "KJOL FM, Grand Junction, Colorado",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -114,6 +134,11 @@
 			"id": "er",
 			"shortDescription": "WBLB Family, Pulaski, Virginia",
 			"title": "WBLB Family, Pulaski, Virginia",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -138,6 +163,11 @@
 			"id": "er",
 			"shortDescription": "Eternity Ready Radio",
 			"title": "Eternity Ready Radio",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -165,6 +195,11 @@
 			"id": "er",
 			"shortDescription": "Eternity Ready Radio",
 			"title": "Eternity Ready Radio",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -189,6 +224,11 @@
 			"id": "er",
 			"shortDescription": "Heaven's Country",
 			"title": "Heaven's Country",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
@@ -210,9 +250,14 @@
 			"tags": [
 				"religion,family"
 			],
-			"id": "er",
+			"id": "aff",
 			"shortDescription": "Affirm Southern Gospel Radio",
 			"title": "Affirm Southern Gospel Radio",
+			"text1":"Donate @ paypal.me/eternityready",
+			"text2":"Positive and Family Friendly. In 20 plus countries.",
+			"text3":"Web Site @ eternityreadyradio.com",
+			"text4":"Watch TV @ eternityready.tv",
+			"text5":"Facbook @ eternityready.",
 			"content": {
 				"duration": 0,
 				"videos": [{
