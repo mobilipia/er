@@ -160,8 +160,8 @@
 				"religion,family"
 			],
 			"id": "er",
-			"shortDescription": "Eternity Ready Radio",
-			"title": "Eternity Ready Radio",
+			"shortDescription": "Serene Radio",
+			"title": "Serene Radio",
 			"text1":"Donate @ paypal.me/eternityready",
 			"text2":"Positive and Family Friendly. In 20 plus countries.",
 			"text3":"Web Site @ eternityreadyradio.com",
@@ -200,7 +200,7 @@
 				"duration": 0,
 				"videos": [{
 					"videoType": "MP3",
-					"url": "http://eternityreadyradio.out.airtime.pro:8000/eternityreadyradio_a",
+					"url": "https://mp3.eternityready.com/stream",
 					"quality": "HD"
 				}],
 				"language": "en-us",
