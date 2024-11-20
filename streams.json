@@ -27,7 +27,7 @@
 				"duration": 0,
 				"videos": [{
 					"videoType": "MP3",
-					"url": "ehttps://mp3.eternityready.com/stream",
+					"url": "https://mp3.eternityready.com/stream",
 					"quality": "HD"
 				}],
 				"language": "en-us",
