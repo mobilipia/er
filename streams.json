@@ -152,36 +152,6 @@
 			}
 		},
 		{
-			"longDescription": "Fine Tune Radio  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
-			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/fineTuneRadio.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"religion"
-			],
-			"tags": [
-				"religion,family"
-			],
-			"id": "er",
-			"shortDescription": "Fine Tune Radio",
-			"title": "Fine Tune Radio",
-			"text1":"Donate @ paypal.me/eternityready",
-			"text2":"Positive and Family Friendly. In 20 plus countries.",
-			"text3":"Web Site @ eternityreadyradio.com",
-			"text4":"Watch TV @ eternityready.tv",
-			"text5":"Facbook @ eternityready.",
-			"content": {
-				"duration": 0,
-				"videos": [{
-					"videoType": "MP3",
-					"url": "https://radio.finetuneradio.com/listen/fine_tune_radio/radio.mp3",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		}],
-	"   ":[
-		{
 			"longDescription": "KJOL FM, Grand Junction, Colorado  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
 			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/KJOL_thumbnail.png",
 			"releaseDate": "2020-01-15",
@@ -209,7 +179,8 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
-		},
+		}],
+	"   ":[
 		{
 			"longDescription": "WBLB Family, Pulaski, Virginia  is a channel that provides gospel content for all age ranges. We help propagate the gospel with our content.",
 			"thumbnail": "https://listen.eternityready.com/api/public/stations/thumbnail/WBLBFamily1340_thumbnail.png",
